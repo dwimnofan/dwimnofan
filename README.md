@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**dwimnofan/dwimnofan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :mortar_board: I’m currently pursuing a degree in Paramadina University
+- :book: I’m currently learning web and mobile development
+- :email: How to reach me: dm.nofan11@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Overview
+
+| <a href="https://github.com/dwimnofan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dwimnofan&show_icons=true&count_private=true&theme=react&hide_border=true" alt="dwimnofan's Github Stats" /></a> | <a href="https://github.com/dwimnofan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwimnofan&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Stats
+
+[![dwimnofan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dwimnofan&theme=react-dark&hide_border=true)](https://github.com/dwimnofan)
