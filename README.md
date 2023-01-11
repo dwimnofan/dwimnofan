@@ -9,7 +9,3 @@
 
 | <a href="https://github.com/dwimnofan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dwimnofan&show_icons=true&count_private=true&theme=react&hide_border=true" alt="dwimnofan's Github Stats" /></a> | <a href="https://github.com/dwimnofan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwimnofan&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-### Stats
-
-[![dwimnofan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dwimnofan&theme=react-dark&hide_border=true)](https://github.com/dwimnofan)
