@@ -1,40 +1,46 @@
+# Hi there 👋 I'm Nofan
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nofan</h1>
+**Full Stack Developer**  
+*Solving real business problems with smart digital solutions*
 
-<h3 align="center">Full Stack Developer</h3>
-<p align="center"><em>Solving real business problems with smart digital solutions</em></p>
+## About Me
 
-## 🚀 About Me
-
-Hey! I'm not just another developer — I actually understand how businesses work. After 4+ years building websites and marketing, I've learned that great code means nothing if it doesn't help people achieve their goals.
+Hey! I'm not just another developer. I actually understand how businesses work. After 4+ years building websites and marketing, I've learned that great code means nothing if it doesn't help people achieve their goals.
 
 I work with modern tools like **Next.js**, **React**, **Laravel**, **Framer**, **Webflow**, and CMS platforms like **WordPress**. I also love working with local Indonesian platforms like **Scalev** and **OrderOnline** because I understand the local market.
 
-Lately, I've been diving deep into **Python & Django** to build AI-powered websites with **RAG** (Retrieval-Augmented Generation). But here's the thing — I'm not building yet another ChatGPT wrapper. I'm creating actually useful AI features that solve real problems for businesses.
+Lately, I've been diving deep into **Python & Django** to build AI-powered websites with **RAG** (Retrieval-Augmented Generation). But here's the thing: I'm not building yet another ChatGPT wrapper. I'm creating actually useful AI features that solve real problems for businesses.
 
-### 💡 What makes me different:
+### What makes me different:
 
-- **I think like a business owner first** — every line of code should drive results
-- **I don't talk like a machine to end users** — they don't know what I'm talking about, so I use simple terms instead of robot language
-- **I measure everything** — data tells better stories than assumptions
-- **I know the Indonesian market** — local insights matter more than you think
-- **I obsess over speed** — nobody waits for slow websites anymore
-- **I ship fast, iterate faster** — practice makes progress, nobody's perfect. Only God is perfect
+**I think like a business owner first** - every line of code should drive results
 
-### 🏆 Things I'm proud of:
+**I don't talk like a machine to end users** - they don't know what I'm talking about, so I use simple terms instead of robot language
 
-- 📈 **Built 30+ websites** that actually make money for their owners
-- 🔍 **Rank #1 on Google** — search "nofan" and see my site at the top
-- 🌟 **Happy clients who refer me** to their friends (that's how you know it's working)
+**I measure everything** - data tells better stories than assumptions
 
-## 📊 GitHub Statistics
+**I know the Indonesian market** - local insights matter more than you think
+
+**I obsess over speed** - nobody waits for slow websites anymore
+
+**I ship fast, iterate faster** - practice makes progress, nobody's perfect. Only God is perfect
+
+### Things I'm proud of:
+
+Built **30+ websites** that actually make money for their owners
+
+Rank **#1 on Google** when you search "nofan" and see my site at the top
+
+Have **happy clients who refer me** to their friends (that's how you know it's working)
+
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwimnofan&show_icons=true&count_private=true&theme=react&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwimnofan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
 </div>
 
-## 🔥 Streak Stats & Activity
+## Streak Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwimnofan&theme=react&hide_border=true" alt="dwimnofan's streak"/>
@@ -44,9 +50,9 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwimnofan&theme=react-dark&hide_border=true" alt="dwimnofan's activity graph"/>
 </p>
 
-## 🛠️ Tools I Use Daily
+## Tools I Use Daily
 
-### 👉 Languages
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -55,7 +61,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### 👉 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -64,7 +70,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 </p>
 
-### 👉 Backend
+### Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -73,7 +79,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### 👉 AI
+### AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -83,7 +89,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-### 👉 Databases
+### Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -92,14 +98,14 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### 👉 Traditional CMS
+### Traditional CMS
 
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 </p>
 
-### 👉 Headless CMS
+### Headless CMS
 
 <p align="left">
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white"/>
@@ -108,7 +114,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white"/>
 </p>
 
-### 👉 No-Code Platforms
+### No-Code Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
@@ -116,7 +122,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/Scalev-FF6B35?style=for-the-badge&logo=scaleway&logoColor=white"/>
 </p>
 
-### 👉 API Integration
+### API Integration
 
 <p align="left">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -125,7 +131,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
   <img src="https://img.shields.io/badge/Third_Party_APIs-4285F4?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-### 👉 DevOps & Hosting
+### DevOps & Hosting
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -136,7 +142,7 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
     <img src="https://img.shields.io/badge/Cloudflare-2088FF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
-### 👉 SEO & Analytics
+### SEO & Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
@@ -147,28 +153,37 @@ Lately, I've been diving deep into **Python & Django** to build AI-powered websi
     <img src="https://img.shields.io/badge/Screaming_Frogs-2563EB?style=for-the-badge&logo=Screaming_Frogs&logoColor=white"/>
 </p>
 
-## 🎯 What I'm focusing on right now
+## What I'm focusing on right now
 
-- 🤖 **Building smart websites** with AI that actually helps users (not just chatbots)
-- 🚀 **Staying current** with Next.js 15+ and all the latest React patterns
-- 📊 **Making websites faster** because users don't like slow websites (seriously, they just leave)
-- 🌏 **Helping Indonesian businesses** get online and compete globally
-- 🔗 **API-first everything** because flexibility beats rigid systems
-- 💡 **Creating interfaces** that feel so natural, users don't need instructions
+**Building smart websites** with AI that actually helps users (not just chatbots)
 
-## 💬 Want to work together?
+**Staying current** with Next.js 15+ and all the latest React patterns
+
+**Making websites faster** because users don't like slow websites (seriously, they just leave)
+
+**Helping Indonesian businesses** get online and compete globally
+
+**API-first everything** because flexibility beats rigid systems
+
+**Creating interfaces** that feel so natural, users don't need instructions
+
+## Want to work together?
 
 > "I believe good websites should make money, not just look pretty. Whether you need an MVP for your startup or want to add AI features to your existing business, let's build something that actually works."
 
 **I can help with:**
 
-- 🚀 Building websites from scratch (or fixing broken ones)
-- 🤖 Adding smart AI features that solve real problems
-- 📊 Making your website faster and more findable on Google
-- 🎯 Digital marketing that brings customers, not just traffic
-- 🌏 Understanding the Indonesian market (it's different, trust me)
+Building websites from scratch (or fixing broken ones)
 
-## 🌐 Connect
+Adding smart AI features that solve real problems
+
+Making your website faster and more findable on Google
+
+Digital marketing that brings customers, not just traffic
+
+Understanding the Indonesian market (it's different, trust me)
+
+## Connect
 
 <p align="left">
   <a href="https://dwimnofan.com" target="_blank">
